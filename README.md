@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreikrutov
 - 👀 I’m interested in machine learning and data visualization.
-- 🌱 I’m currently learning Tableau app.
+- 🌱 I’m currently learning Geopandas.
 - 💞️ I’m looking to collaborate on projects about science\scientist data. 
 - 📫 How to reach me aakrutov@rambler.ru
 
